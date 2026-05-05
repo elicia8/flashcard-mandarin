@@ -1,0 +1,15 @@
+* {
+    color: #e3f6cb;
+}
+nav {
+    display: flex;
+    gap: 2rem;
+}
+a {
+    text-decoration: none;
+}
+.active {
+    text-decoration: underline;
+    text-underline-offset: 0.5rem;
+    text-decoration-thickness: 0.15rem;
+}

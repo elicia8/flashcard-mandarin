@@ -1,0 +1,19 @@
+* {
+    background-color: transparent;
+}
+header {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    padding: 1rem;
+    background-color: #270c47;
+}
+main {
+    padding: 5rem;
+}
+button {
+    cursor: pointer;
+}
